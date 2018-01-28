@@ -1,10 +1,10 @@
-# PyCon 8 Community Voting Results #
+# PyCon 9 Community Voting Results #
 
 <div style="background-color:#000"> 
-    <img src='logos/pycon8.png' width='50%' />
+    <img src='logos/pycon9.png' width='50%' />
 </div>
 
-Community Voting Results and Rankings of Talks proposed at PyCon Otto: [http://pycon.it]()
+Community Voting Results and Rankings of Talks proposed at PyCon Nove: [http://pycon.it]()
 
 * **Notebook**: [Conference Talks Rankings](Conference Talks Rankings.ipynb)
 
