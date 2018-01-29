@@ -21,5 +21,6 @@ Community Voting Results and Rankings of Talks proposed at PyCon Nove: [http://p
 *  [**Python&Friends**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pylang)
 *  [**PyData**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pydata)
 *  [**PyWeb&DevOps**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pyweb)
-* [**PyBusiness**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pybusiness)
-* [**PyDatabase**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pydb)
+*  [**PyCommunity**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pycommunity)
+*  [**PyBusiness**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pybusiness)
+*  [**PyDatabase**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pydb)
