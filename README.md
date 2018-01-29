@@ -10,7 +10,7 @@ Community Voting Results and Rankings of Talks proposed at PyCon Nove: [http://p
 * [**Ranking**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#community-voting-results)
 
 * [**Talks**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#talks)
-* [**Traninngs**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#trainings)
+* [**Trainings**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#trainings)
 * [**Stats**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#stats)
 
 ### Tracks
