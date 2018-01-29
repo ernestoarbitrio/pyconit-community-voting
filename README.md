@@ -9,9 +9,9 @@ Community Voting Results and Rankings of Talks proposed at PyCon Nove: [http://p
 * **Notebook**: [Conference Talks Rankings](Conference Talks Rankings.ipynb)
 
 ## All the Rankings & Stats: ##
-* [**Absolute Ranking**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#community-voting-results)
+* [**Absolute Ranking**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#community-voting-results)
 
-* [**Talks**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#talks)
+* [**Talks**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#talks)
 * [**Traninngs**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#trainings)
 * [**Stats**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#stats)
 
