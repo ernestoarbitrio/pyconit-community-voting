@@ -6,8 +6,7 @@
 
 Community Voting Results and Rankings of Talks proposed at PyCon Nove: [http://pycon.it]()
 
-* **Notebook**:  
- [Conference Talks Rankings](Conference Talks Rankings.ipynb)
+* **Notebook**: [I'm an inline-style link](https://www.google.com)
 
 ## All the Rankings & Stats: ##
 * [**Absolute Ranking**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#community-voting-results)
