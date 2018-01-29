@@ -12,14 +12,13 @@ Community Voting Results and Rankings of Talks proposed at PyCon Nove: [http://p
 * [**Absolute Ranking**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#community-voting-results)
 
 * [**Talks**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#talks)
-* [**Traninngs**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#trainings)
-* [**Stats**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#stats)
+* [**Traninngs**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#trainings)
+* [**Stats**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#stats)
 
 ### Tracks
 
-*  [**PyLang**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#pylang)
-* [**PyCommunity**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#pycommunity)
-*  [**PyData**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#pydata)
-*  [**PyWeb**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#pyweb)
-* [**PyBusiness**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#pybusiness)
-* [**PyDatabase**](https://gist.github.com/leriomaggio/3762d7e50d208d26c192fff5c6faa813#pydb)
+*  [**Python&Friends**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pylang)
+*  [**PyData**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pydata)
+*  [**PyWeb&DevOps**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pyweb)
+* [**PyBusiness**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pybusiness)
+* [**PyDatabase**](https://gist.github.com/ernestoarbitrio/8127ee3640475979999cf07ee973f1f6#pydb)
